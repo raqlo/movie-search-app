@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ovie-search-app/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/ovie-search-app/static/js/main.ef9fb0bb.chunk.js",
+    "main.js.map": "/ovie-search-app/static/js/main.ef9fb0bb.chunk.js.map",
+    "runtime-main.js": "/ovie-search-app/static/js/runtime-main.b5f858f0.js",
+    "runtime-main.js.map": "/ovie-search-app/static/js/runtime-main.b5f858f0.js.map",
+    "static/js/2.dd4a3b0f.chunk.js": "/ovie-search-app/static/js/2.dd4a3b0f.chunk.js",
+    "static/js/2.dd4a3b0f.chunk.js.map": "/ovie-search-app/static/js/2.dd4a3b0f.chunk.js.map",
+    "static/js/3.72f3fa9e.chunk.js": "/ovie-search-app/static/js/3.72f3fa9e.chunk.js",
+    "static/js/3.72f3fa9e.chunk.js.map": "/ovie-search-app/static/js/3.72f3fa9e.chunk.js.map",
+    "index.html": "/ovie-search-app/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/ovie-search-app/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.dd4a3b0f.chunk.js.LICENSE.txt": "/ovie-search-app/static/js/2.dd4a3b0f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ovie-search-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5f858f0.js",
+    "static/js/2.dd4a3b0f.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.ef9fb0bb.chunk.js"
+  ]
+}
